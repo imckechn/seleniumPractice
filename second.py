@@ -1,7 +1,7 @@
 # For CIS 4150: Software Reliability and Testing
 # Assignment 3 Part 3
 # By Ian McKechnie
-# Friday, November 18, 20222
+# Friday, November 18, 2022
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
